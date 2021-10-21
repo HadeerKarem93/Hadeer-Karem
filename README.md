@@ -1,4 +1,4 @@
 # Hadeer-Karem
 
 Hello 
-please all pugs and testplans will find it in issues 
+please all bugs and testplans will find it in issues 
